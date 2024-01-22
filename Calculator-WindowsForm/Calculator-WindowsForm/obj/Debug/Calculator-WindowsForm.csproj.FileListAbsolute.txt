@@ -1,0 +1,10 @@
+\\ltuglbctxfile03.file.core.windows.net\cxredirects\natpeg-3\Documents\My projects\Calculator-WindowsForm\Calculator-WindowsForm\bin\Debug\Calculator-WindowsForm.exe.config
+\\ltuglbctxfile03.file.core.windows.net\cxredirects\natpeg-3\Documents\My projects\Calculator-WindowsForm\Calculator-WindowsForm\bin\Debug\Calculator-WindowsForm.exe
+\\ltuglbctxfile03.file.core.windows.net\cxredirects\natpeg-3\Documents\My projects\Calculator-WindowsForm\Calculator-WindowsForm\bin\Debug\Calculator-WindowsForm.pdb
+\\ltuglbctxfile03.file.core.windows.net\cxredirects\natpeg-3\Documents\My projects\Calculator-WindowsForm\Calculator-WindowsForm\obj\Debug\Calculator-WindowsForm.csproj.AssemblyReference.cache
+\\ltuglbctxfile03.file.core.windows.net\cxredirects\natpeg-3\Documents\My projects\Calculator-WindowsForm\Calculator-WindowsForm\obj\Debug\Calculator_WindowsForm.Form1.resources
+\\ltuglbctxfile03.file.core.windows.net\cxredirects\natpeg-3\Documents\My projects\Calculator-WindowsForm\Calculator-WindowsForm\obj\Debug\Calculator_WindowsForm.Properties.Resources.resources
+\\ltuglbctxfile03.file.core.windows.net\cxredirects\natpeg-3\Documents\My projects\Calculator-WindowsForm\Calculator-WindowsForm\obj\Debug\Calculator-WindowsForm.csproj.GenerateResource.cache
+\\ltuglbctxfile03.file.core.windows.net\cxredirects\natpeg-3\Documents\My projects\Calculator-WindowsForm\Calculator-WindowsForm\obj\Debug\Calculator-WindowsForm.csproj.CoreCompileInputs.cache
+\\ltuglbctxfile03.file.core.windows.net\cxredirects\natpeg-3\Documents\My projects\Calculator-WindowsForm\Calculator-WindowsForm\obj\Debug\Calculator-WindowsForm.exe
+\\ltuglbctxfile03.file.core.windows.net\cxredirects\natpeg-3\Documents\My projects\Calculator-WindowsForm\Calculator-WindowsForm\obj\Debug\Calculator-WindowsForm.pdb
